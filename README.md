@@ -10,12 +10,13 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
-<p>
+    I am a front-end developer with 5 years of professional experience, skilled in HTML, CSS, and JavaScript. In addition to my front-end expertise, I have successfully completed multiple full-stack projects, demonstrating my comprehensive understanding of both client-side and server-side development.
+
+    I interned for three months at INTERNETSLIM, where I gained valuable industry experience and practical knowledge. In 2021, I earned a certification in Application Programming from LSP, achieving Indonesian National Qualification Framework Level II on Skills Competence Software Engineering.
+
+    I am passionate about crafting intuitive and engaging web experiences and am continuously seeking opportunities to expand my skill set and contribute to innovative projects in the tech industry.
+</p>
+
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="www.linkedin.com/in/angga-cahyo-krisnanto">
