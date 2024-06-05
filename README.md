@@ -19,7 +19,7 @@ Lifelong Learner, currently working as budagh kompeni.
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="www.linkedin.com/in/angga-cahyo-krisnanto">
-  <img align="left" alt="Angga Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
+  <img align="left" alt="Angga Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 <a href="https://www.instagram.com/anggakrisnanto_/">
   <img align="left" alt="Angga Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
