@@ -14,7 +14,7 @@ Dedicated lifelong learner, currently enhancing my skills and contributing to in
     - 🚀 Passionate about crafting intuitive web experiences, I am always eager to expand my skill set and contribute to innovative tech projects.</br>
 <p>
 
-### <summary><strong>anggakrisnanto language</strong></summary>
+### <summary><strong>anggakrisnanto Languages</strong></summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
 
 ### <summary><strong>Let's connect!</strong></summary>
