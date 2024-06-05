@@ -14,6 +14,9 @@ Dedicated lifelong learner, currently enhancing my skills and contributing to in
     - 🚀 Passionate about crafting intuitive web experiences, I am always eager to expand my skill set and contribute to innovative tech projects.</br>
 <p>
 
+### <summary><strong>anggakrisnanto language</strong></summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
+
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="www.linkedin.com/in/angga-cahyo-krisnanto">
   <img align="left" alt="Angga Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
