@@ -6,7 +6,7 @@ Dedicated lifelong learner, currently enhancing my skills and contributing to in
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-### <summary><strong>Yosh!</strong></summary>
+### <summary><strong>Alright!</strong></summary>
 <p>
     - 👋 I am a front-end developer with 5 years of professional experience, skilled in HTML, CSS, and JavaScript. Besides front-end, I have completed full-stack projects, showcasing my        understanding of both client-side and server-side development. </br>
     - 💼 I interned at INTERNETSLIM, gaining valuable industry experience. In 2021, I earned a certification in Application Programming from LSP, achieving Indonesian National                 Qualification Framework Level II on Skills Competence Software Engineering.</br>
