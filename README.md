@@ -10,12 +10,11 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    I am a front-end developer with 5 years of professional experience, skilled in HTML, CSS, and JavaScript. In addition to my front-end expertise, I have successfully completed multiple full-stack projects, demonstrating my comprehensive understanding of both client-side and server-side development.
-
-    I interned for three months at INTERNETSLIM, where I gained valuable industry experience and practical knowledge. In 2021, I earned a certification in Application Programming from LSP, achieving Indonesian National Qualification Framework Level II on Skills Competence Software Engineering.
-
-    I am passionate about crafting intuitive and engaging web experiences and am continuously seeking opportunities to expand my skill set and contribute to innovative projects in the tech industry.
-</p>
+    - 👋 I am a front-end developer with 5 years of professional experience, skilled in HTML, CSS, and JavaScript. Besides front-end, I have completed full-stack projects, showcasing my        understanding of both client-side and server-side development. </br>
+    - 💼 I interned at INTERNETSLIM, gaining valuable industry experience. In 2021, I earned a certification in Application Programming from LSP, achieving Indonesian National                 Qualification Framework Level II on Skills Competence Software Engineering.</br>
+    - 📜 In 2021, I earned a certification in Application Programming from LSP, achieving Indonesian National                 Qualification Framework Level II on Skills Competence             Software Engineering.</br>
+    - 🚀 Passionate about crafting intuitive web experiences, I am always eager to expand my skill set and contribute to innovative tech projects.</br>
+<p>
 
  
 ### <summary><strong>Let's connect!</strong></summary>
