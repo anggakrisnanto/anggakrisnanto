@@ -9,8 +9,8 @@ Dedicated lifelong learner, currently enhancing my skills and contributing to in
 ### <summary><strong>Alright!</strong></summary>
 <p>
     - 👋 I am a front-end developer with 5 years of professional experience, skilled in HTML, CSS, and JavaScript. Besides front-end, I have completed full-stack projects, showcasing my        understanding of both client-side and server-side development. </br>
-    - 💼 I interned at INTERNETSLIM, gaining valuable industry experience. In 2021, I earned a certification in Application Programming from LSP, achieving Indonesian National                 Qualification Framework Level II on Skills Competence Software Engineering.</br>
-    - 📜 In 2021, I earned a certification in Application Programming from LSP, achieving Indonesian National                 Qualification Framework Level II on Skills Competence             Software Engineering.</br>
+    - 💼 I interned for 3 months at PT.Internetslim in 2019, gaining valuable industry experience.</br>
+    - 📜 In 2021, I earned a certification in Application Programming from LSP, achieving Indonesian National Qualification Framework Level II on Skills Competence Software Engineering </br>
     - 🚀 Passionate about crafting intuitive web experiences, I am always eager to expand my skill set and contribute to innovative tech projects.</br>
 <p>
 
