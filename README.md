@@ -18,7 +18,7 @@ Dedicated lifelong learner, currently enhancing my skills and contributing to in
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
 
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="www.linkedin.com/in/angga-cahyo-krisnanto">
+<a href="https://www.linkedin.com/in/angga-cahyo-krisnanto/">
   <img align="left" alt="Angga Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 <a href="https://www.instagram.com/anggakrisnanto_/">
