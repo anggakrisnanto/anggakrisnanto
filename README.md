@@ -14,6 +14,9 @@ Dedicated lifelong learner, currently enhancing my skills and contributing to in
     - 🚀 Passionate about crafting intuitive web experiences, I am always eager to expand my skill set and contribute to innovative tech projects.</br>
 <p>
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="www.linkedin.com/in/angga-cahyo-krisnanto">
